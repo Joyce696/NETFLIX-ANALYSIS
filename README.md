@@ -14,7 +14,7 @@ Description: tells the content and summary of the Movie/TV Show.
 Data Source: The excel dataset used in this project was obtained from Data world. The dataset contains information on various Netflix content, including movies, TV shows, and documentaries. It can be accessed [here]().
 
 Usage:
-To view the Tableau visualization, simply click on this workbook [Link(https://public.tableau.com/app/profile/joyce.ejezie/viz/NETFLIXANALYSIS_16807908010270/NETFLIX) 
+To view the Tableau visualization, simply click on this workbook [Link](https://public.tableau.com/app/profile/joyce.ejezie/viz/NETFLIXANALYSIS_16807908010270/NETFLIX)
 from this repository and it automatically opens in  a Tableau Desktop. You can interact with the various charts and graphs to explore the data and gain insights.
 
 
