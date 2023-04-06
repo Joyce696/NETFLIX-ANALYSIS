@@ -18,7 +18,6 @@ To view the Tableau visualization, simply click on this workbook [Link(https://p
 from this repository and it automatically opens in  a Tableau Desktop. You can interact with the various charts and graphs to explore the data and gain insights.
 
 
-The Netflix dataset used for this repository can be accessed [here]()
 Contributing:
 If you would like to contribute to this project, feel free to fork this repository and make changes. Pull requests are welcome!
 
