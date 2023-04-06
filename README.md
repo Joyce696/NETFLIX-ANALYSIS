@@ -11,7 +11,7 @@ Duration distribution: Shows the distribution of content based on its duration.
 Top-rated content: Lists the 10 top-rated movies and series based on user ratings.
 Description: tells the content and summary of the Movie/TV Show.
 
-Data Source: The excel dataset used in this project was obtained from Data world. The dataset contains information on various Netflix content, including movies, TV shows, and documentaries. It can be accessed [here]().
+Data Source: The excel dataset used in this project was obtained from Data world. The dataset contains information on various Netflix content, including movies, TV shows, and documentaries. It can be accessed [here](https://github.com/Joyce696/NETFLIX-ANALYSIS/blob/02a6d7e8d57d0a674cf086ddd5a37fa6a373b266/NETFLIX%20DATASET.xlsx).
 
 Usage:
 To view the Tableau visualization, simply click on this workbook [Link](https://public.tableau.com/app/profile/joyce.ejezie/viz/NETFLIXANALYSIS_16807908010270/NETFLIX)
